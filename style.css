@@ -1,0 +1,68 @@
+.card-text {
+    font-size: 20px;
+    line-height: 22px;
+    color: #777777;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 24px;
+    padding: 15px 0 15px 35px;
+    background-color: #4aaaa5;
+    margin: 0;
+}
+
+h2 {
+    color: #4aaaa5;
+    padding-left: 200px;
+}
+
+.page-header {
+    margin: 5px 0 15px 0;
+    background-color: #ffffff;
+}
+
+
+.img-rounded {
+    float: left;
+    padding-right: 20px;
+}
+
+.card-body {
+    background-color: #ffffff;
+}
+
+#btn {
+    background-color: #4aaaa5 !important;
+    padding: 12px;
+}
+
+
+body {
+    background-image: url(pictures/light-grey-terrazzo.png);
+}
+
+.container {
+    background-color: #ffffff;
+    padding-bottom: 5px !important;
+}
+
+.navbar {
+    background-color: #ffffff !important;
+    padding-bottom: .25rem;
+}
+
+a {
+    color: #777777;
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+.footer {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #4aaaa5;
+    padding-bottom: 15px;
+    width: 100%;
+}
