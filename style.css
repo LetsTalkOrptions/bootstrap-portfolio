@@ -1,3 +1,4 @@
+
 .card-text {
     font-size: 20px;
     line-height: 22px;
@@ -7,14 +8,14 @@
 h1 {
     color: #ffffff;
     font-size: 24px;
-    padding: 15px 0 15px 35px;
+    margin: 0 40px 0 40px;
+    padding: 20px 10px 20px 10px;
     background-color: #4aaaa5;
-    margin: 0;
 }
 
 h2 {
     color: #4aaaa5;
-    padding-left: 200px;
+    
 }
 
 .page-header {
@@ -44,7 +45,19 @@ body {
 
 .container {
     background-color: #ffffff;
-    padding-bottom: 5px !important;
+    padding: 0 0 5px 0 !important;  
+    
+}
+
+.container-fluid {
+    background-color: #ffffff;
+    padding: 0 0 5px 0 !important;  
+    
+}
+
+.contact-content {
+    margin: 0 200px 0 200px !important;
+
 }
 
 .navbar {
@@ -65,4 +78,35 @@ a {
     background-color: #4aaaa5;
     padding-bottom: 15px;
     width: 100%;
+}
+
+
+    /* how do i get this to fill the responsive image as a banner?? */
+.text-block {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    top: 70%;
+    font-size: 16px;
+
+      
+}
+
+#hangman {
+ 
+}
+
+.pic-one {
+    margin: 20px;
+    display: inline-block;
+    position: relative;
+}
+.pic-two {
+    margin: 20px;
+}
+.pic-three {
+    margin: 20px;
+}
+.pic-four {
+    margin: 20px;
 }
